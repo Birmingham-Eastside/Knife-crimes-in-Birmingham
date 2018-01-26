@@ -13,4 +13,8 @@ In 25 January 2018, we published a story about how majority of the knife crimes 
 
 
 # Get the data
-We got the data from FOI to the West Midlands Police
+The data that we used on this story came from the West Midlands Police under the FOI. 
+
+<ul>
+  <li><a href="https://github.com/Birmingham-Eastside/Knife-crimes-in-Birmingham/blob/master/268_18_attachment%20(1).pdf"> PDF: Knife crimes in Birmingham</a></li>
+</ul>
